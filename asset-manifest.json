@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/digitalclock-serranorobinandrei/static/css/main.e327b6f3.chunk.css",
+    "main.js": "/digitalclock-serranorobinandrei/static/js/main.ce507c72.chunk.js",
+    "main.js.map": "/digitalclock-serranorobinandrei/static/js/main.ce507c72.chunk.js.map",
+    "runtime-main.js": "/digitalclock-serranorobinandrei/static/js/runtime-main.85970830.js",
+    "runtime-main.js.map": "/digitalclock-serranorobinandrei/static/js/runtime-main.85970830.js.map",
+    "static/js/2.49cf865b.chunk.js": "/digitalclock-serranorobinandrei/static/js/2.49cf865b.chunk.js",
+    "static/js/2.49cf865b.chunk.js.map": "/digitalclock-serranorobinandrei/static/js/2.49cf865b.chunk.js.map",
+    "index.html": "/digitalclock-serranorobinandrei/index.html",
+    "static/css/main.e327b6f3.chunk.css.map": "/digitalclock-serranorobinandrei/static/css/main.e327b6f3.chunk.css.map",
+    "static/js/2.49cf865b.chunk.js.LICENSE.txt": "/digitalclock-serranorobinandrei/static/js/2.49cf865b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/digitalclock-serranorobinandrei/static/media/digital-7.ae951a18.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85970830.js",
+    "static/js/2.49cf865b.chunk.js",
+    "static/css/main.e327b6f3.chunk.css",
+    "static/js/main.ce507c72.chunk.js"
+  ]
+}

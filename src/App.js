@@ -25,7 +25,7 @@ function clock() {
       </div>
 
       <div class="grid-item item-4">
-          <h4> {d.toLocaleString('default', { month: 'long' })}{d.getDate()} {d.getFullYear()}</h4>
+          <h4> {d.toLocaleString('default', { month: 'long' })} {d.getDate()} {d.getFullYear()}</h4>
       </div>
 
       <div class="grid-item item-5">
